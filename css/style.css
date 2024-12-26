@@ -1,0 +1,22 @@
+button {
+    width: 300px;
+    height: 90px;
+    cursor: pointer;
+   background-color: rgb(249, 157, 20);
+    
+}
+button:hover{
+    background-color: brown;
+}
+
+p{
+    font-size: 35px;
+}
+
+
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+    font-family: Impact;
+    margin: 35px;
+}
